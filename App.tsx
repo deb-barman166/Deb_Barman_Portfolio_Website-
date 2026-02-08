@@ -10,7 +10,7 @@ import { ProjectCard } from './ProjectCard';
 import { ArticleCard } from './ArticleCard'; 
 import { ExperienceCard } from './ExperienceCard';
 import { ContactForm } from './ContactForm';
-import { SKILL_CATEGORIES, PROJECTS, ARTICLES, EXPERIENCES } from './constants';
+import { SKILL_CATEGORIES, PROJECTS, ARTICLES, EXPERIENCES };
 import { Github, Twitter, Linkedin, Mail, ArrowRight, Briefcase, Zap, Cpu, Clock } from 'lucide-react';
 
 const App: React.FC = () => {
