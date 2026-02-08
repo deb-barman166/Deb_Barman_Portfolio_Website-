@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SkillCategory, SkillLevel } from '../types';
+import { SkillCategory, SkillLevel } from './types';
 import { Code, Cpu, Brain, BookOpen, Palette, Zap, Layers, Check, Sparkles } from 'lucide-react';
 
 interface Props {
