@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { MessageSquare, X, Send, Bot, Loader2 } from 'lucide-react';
-import { generatePortfolioResponse } from '../services/geminiService';
+import { generatePortfolioResponse } from './services/geminiService';
 
 interface Message {
   role: 'user' | 'ai';
