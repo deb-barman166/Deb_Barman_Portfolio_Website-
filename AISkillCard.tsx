@@ -1,5 +1,5 @@
 import React from 'react';
-import { SkillItem, SkillLevel } from '../types';
+import { SkillItem, SkillLevel } from './types';
 
 interface Props {
   skill: SkillItem;
