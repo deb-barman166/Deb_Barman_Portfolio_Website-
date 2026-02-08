@@ -125,4 +125,4 @@ export const ChatWidget: React.FC = () => {
       </button>
     </div>
   );
-   };
+    };
