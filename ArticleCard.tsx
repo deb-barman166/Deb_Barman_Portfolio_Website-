@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Article } from '../types';
+import { Article } from './types';
 import { ExternalLink, Share2, Linkedin, Facebook, Twitter, Instagram, Copy, BookOpen, Clock, Calendar } from 'lucide-react';
 
 interface Props {
